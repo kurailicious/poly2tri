@@ -39,7 +39,7 @@
 #include <iostream>
 using namespace std;
 
-#include "../poly2tri/poly2tri.h"
+#include "poly2tri.h"
 using namespace p2t;
 
 void Init();
